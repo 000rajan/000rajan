@@ -1,4 +1,4 @@
-## Hi  👋 i am rajan kumar
+
 <h1 align="center">
   Hey there, I'm <a href="#">✨ Rajan kumar ✨</a>
 </h1>
