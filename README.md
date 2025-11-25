@@ -1,6 +1,6 @@
 ## Hi  👋 i am rajan kumar
 <h1 align="center">
-  Hey there, I'm <a href="#">✨ Your Name ✨</a>
+  Hey there, I'm <a href="#">✨ Rajan kumar ✨</a>
 </h1>
 
 <p align="center">
@@ -17,7 +17,3 @@
 - 💬 Ask me about **JavaScript, Python, React, Node.js**
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" />
-</p>
