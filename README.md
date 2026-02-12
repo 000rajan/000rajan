@@ -2,7 +2,7 @@
 
 
 !-- HEADER -->
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋, I'm RAJAN KUMAR</h1>
 <h3 align="center">A Passionate Developer & Creator</h3>
 
 <p align="center">
